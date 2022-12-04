@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cool projects related to Neural Networks.
+- 🔭 I’m currently working on cool projects related to Machine Learning, AI.
 - 🌱 I’m currently learning Devops.
 - 👯 I’m looking to collaborate on exciting ideas.
 - 🤔 I’m looking for help with ...
