@@ -8,3 +8,4 @@
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/aparna-popade/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: 
+[![An image of @11aparna91's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/11aparna91)](https://holopin.io/@11aparna91)
